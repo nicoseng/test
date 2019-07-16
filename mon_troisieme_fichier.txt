@@ -1,3 +1,4 @@
 tout se passe bien dans mon fichier ok 
 et maintenant si on envoyait ce fichier en local depuis github ? 
 et maintenant retour à l'envoyeur en direction de GitHub 
+c'est cool non ? 
